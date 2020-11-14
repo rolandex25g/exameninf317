@@ -1,0 +1,6 @@
+D:\inf317_2\examen1\ConsoleApplicationCalculoPi\ConsoleApplicationCalculoPi\bin\Debug\ConsoleApplicationCalculoPi.exe.config
+D:\inf317_2\examen1\ConsoleApplicationCalculoPi\ConsoleApplicationCalculoPi\bin\Debug\ConsoleApplicationCalculoPi.exe
+D:\inf317_2\examen1\ConsoleApplicationCalculoPi\ConsoleApplicationCalculoPi\bin\Debug\ConsoleApplicationCalculoPi.pdb
+D:\inf317_2\examen1\ConsoleApplicationCalculoPi\ConsoleApplicationCalculoPi\obj\Debug\ConsoleApplicationCalculoPi.csprojResolveAssemblyReference.cache
+D:\inf317_2\examen1\ConsoleApplicationCalculoPi\ConsoleApplicationCalculoPi\obj\Debug\ConsoleApplicationCalculoPi.exe
+D:\inf317_2\examen1\ConsoleApplicationCalculoPi\ConsoleApplicationCalculoPi\obj\Debug\ConsoleApplicationCalculoPi.pdb
